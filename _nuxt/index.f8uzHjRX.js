@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.x3n3nnut.js";import{v as t,t as o,x as s}from"./entry.Y1k0kys-.js";const c={},n=s("div",{class:"text-h4"},"Index1",-1),r=[n];function _(a,d){return o(),t("div",null,r)}const l=e(c,[["render",_]]);export{l as default};
